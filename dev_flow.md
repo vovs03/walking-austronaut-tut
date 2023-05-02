@@ -14,6 +14,10 @@
 
 <img width="480" alt="Screenshot 2023-05-02 at 13 05 40" src="https://user-images.githubusercontent.com/21124057/235639297-5d0b4677-fb1e-4289-a368-46f8149a667e.png">
 
+## Movement with animations
+
+set animations for movement
+
 ---
 
 ## Android
