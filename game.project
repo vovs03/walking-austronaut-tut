@@ -5,9 +5,13 @@ main_collection = /main/main.collectionc
 shared_state = 1
 
 [project]
-title = Walking astronaut tutorial
+title = Walking-astronaut-tut
+version = 0.2.0
 
 [display]
 width = 1280
 height = 768
+
+[android]
+package = ru.osarts.astronaut.demo
 
