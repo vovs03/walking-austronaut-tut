@@ -1,3 +1,7 @@
+# Secrets
+manifest.private.der
+manifest.public.der
+
 /.internal
 /build
 .externalToolBuilders
@@ -8,3 +12,9 @@ Thumbs.db
 .project
 .cproject
 builtins
+
+## Bundle
+#  Android
+armv7-android
+debug.keystore
+debug.keystore.pass.txt
